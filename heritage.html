@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="UTF-8">
+	<title> GoWhere@SG </title>
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+</head>
+<body>
+
+<ul id="nav-bar-laptop">
+    <li class="event-dropdown">
+		<p href="" class="event-drop-button">Events</p>
+		<div class="event-dropdown-content">
+			<a href="/upcoming">Upcoming soon</a>
+			<a href="/future">Future</a>
+			<a href="/past">Past</a>
+		</div>
+	</li>
+	<li class="place-dropdown">
+		<p href="" class="place-drop-button">Places</p>
+		<div class="place-dropdown-content">
+		<!--  Trying to use data from data.gov.sg to find places to go to -->
+			<a href="/parks"> Parks </a>
+			<a href="/sports_facilities"> Sports Facilities </a>
+			<a href="/heritage"> Heritage Sites </a>
+		</div>
+	</li>
+	<li><a href="/submit"> Submit </a></li>
+    <li id="page-name"> <a href=""> GoWhere@SG </a></li>
+</ul>
+	<a href="/" id="mobile-page-name"> GoWhere@SG </a>
+
+<h1 id="welcome-message"> Heritage Sites </h1>
+<div id="map"></div>
+<br><br><br><br><br><br>
+<p id="credits"> Map data from data.gov.sg </p>
+
+<div id="nav-bar-mobile">
+	<a href="/submit" style="bottom:0"> Submit </a>
+	<div class="mobile-dropdown">
+		<p href=""class="mobile-navigation" style="bottom: 0;left:33.3vw;"> Events</p>
+		<div class="mobile-dropdown-content">
+			<a href="/upcoming" style="left:33.3vw"> Upcoming soon </a>
+			<a href="/future" style="left: 33.3vw;"> Future </a>
+			<a href="/past" style="left:33.3vw;"> Past </a>
+		</div>
+	</div>
+	<div class="mobile-dropdown">
+		<p href=""class="mobile-navigation" style="left:66.6vw; bottom: 0"> Places</p>
+		<div class="mobile-dropdown-content">
+			<a href="/parks" style="left: 66.6vw"> Parks </a>
+			<a href="/sports_facilities" style="left:66.6vw"> Sports Facilities </a>
+			<a href="/heritage" style="left: 66.6vw"> Heritage Sites </a>
+		</div>
+	</div>
+</div>
+<script>
+    var map;
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+			center: {lat:1.352083 , lng: 103.81983600000001},
+			zoom: 10
+        });
+		var ctaLayer = new google.maps.KmlLayer({
+		url: 'https://sggowhere.appspot.com/kml/monuments.kml',
+		map: map,
+		preserveViewport: true
+		});
+		var ctaLayer = new google.maps.KmlLayer({
+		url: 'https://sggowhere.appspot.com/kml/heritage_trees.kml',
+		map: map,
+		preserveViewport: true
+		});
+		var ctaLayer = new google.maps.KmlLayer({
+		url: 'https://sggowhere.appspot.com/kml/historical_sites.kml',
+		map: map,
+		preserveViewport: true
+		});
+		var infoWindow = new google.maps.InfoWindow({map: map});
+
+	  if (navigator.geolocation) {
+		navigator.geolocation.getCurrentPosition(function(position) {
+		  var pos = {
+			lat: position.coords.latitude,
+			lng: position.coords.longitude
+		  };
+
+		  infoWindow.setPosition(pos);
+		  infoWindow.setContent('Location found.');
+		  map.setCenter(pos);
+		  map.setZoom(15);
+		}, function() {
+		  handleLocationError(true, infoWindow, map.getCenter());
+		});
+		} else {
+		// Browser doesn't support Geolocation
+		handleLocationError(false, infoWindow, map.getCenter());
+		}
+
+		}
+
+	function handleLocationError(browserHasGeolocation, infoWindow, pos) {
+	  infoWindow.setPosition(pos);
+	  infoWindow.setContent(browserHasGeolocation ?
+							'Error: The Geolocation service failed.' :
+							'Error: Your browser doesn\'t support geolocation.');
+	}
+	
+
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGADuYa6JzYkGRuYeRLp8lkYLXP5PX4P8&callback=initMap" async defer></script>
+</body>
+</html>
