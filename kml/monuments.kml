@@ -1,0 +1,4856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="MONUMENTS">
+  <name>MONUMENTS</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>MONUMENTS</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Former Siong Lim Temple (now Lian Shan Shuang Lin Monastery)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Siong Lim Temple (now Lian Shan Shuang Lin Monastery)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>184-E</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>319941</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Jalan Toa Payoh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The traditional architecture of Lian Shan Shuang Lin Monastery – or ‘Twin Grove Monastery on Lotus Hill’ – stands out amidst the modern high-rise apartment blocks in the Toa Payoh neighbourhood.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Siong Lim Temple (now Lian Shan Shuang Lin Monastery)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20siong%20lim%20temple-di_former_siong_lim_temple.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20siong%20lim%20temple-di_former_siong_lim_temple.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8573425476834,1.33034490348651,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Former Ford Factory (now Memories at Old Ford Factory)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Ford Factory (now Memories at Old Ford Factory)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>351</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>588192</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Upper Bukit Timah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Built atop a little hill, the Former Ford Factory has been a visual landmark in Bukit Timah since its completion in 1941.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Ford Factory (now Memories at Old Ford Factory)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20ford%20factory-di_former_ford_factory.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20ford%20factory-di_former_ford_factory.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7691619999852,1.352942999615358,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Former Raffles College (now NUS Campus at Bukit Timah)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Raffles College (now NUS Campus at Bukit Timah)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>469G</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>259776</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bukit Timah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Located next to the Singapore Botanic Gardens, the Former Raffles College is well hidden from the public eye.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Raffles College (now NUS Campus at Bukit Timah)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20raffles%20college-di_former_raffles_college.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20raffles%20college-di_former_raffles_college.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8168460001139,1.318323000234623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Bowyer Block</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bowyer Block</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>11</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>168751</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Third Hospital Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Amidst the modern blocks in the sprawling compound of Singapore General Hospital stands a Neoclassical building with its distinctive clock tower.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Bowyer Block</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/bowyer%20block-di_bowyer_block.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/bowyer%20block-di_bowyer_block.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8362890003403,1.280735999844663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Church of St Teresa</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Church of St Teresa</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>510</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>99446</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Kampong Bahru Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Standing atop a little hill, the Church of Saint Teresa was originally constructed for the spiritual needs of the Hokkien-speaking Catholics living in the town area.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Church of St Teresa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20st%20teresa-di_church_of_st_teresa.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20st%20teresa-di_church_of_st_teresa.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.827887999798,1.272780999839488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Former St James Power Station</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former St James Power Station</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>98544</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Sentosa Gateway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Former Saint James Power Station was the first coal-fired power station on the island.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former St James Power Station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20st%20james%20power%20station-di_former_st_james_power_station.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20st%20james%20power%20station-di_former_st_james_power_station.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8248480002841,1.264685000205216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Former Keng Teck Whay Building</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Keng Teck Whay Building</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>150</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>68608</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Ayer Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Once home to one of Singapore's oldest self-help organisations, the Former Keng Teck Whay Building is situated next to Thian Hock Keng, and is a short walk from Al-Abrar Mosque and the Former Nagore D</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Keng Teck Whay Building</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/keng%20teck%20whay-di_keng_teck_whay.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/keng%20teck%20whay-di_keng_teck_whay.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8477999999464,1.281146000428293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Central Fire Station</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Central Fire Station</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>62</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179367</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Hill Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Central Fire Station is the oldest surviving fire station in Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Central Fire Station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/central%20fire%20station-di_central_fire_station.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/central%20fire%20station-di_central_fire_station.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8491889018195,1.292154101243982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Former City Hall</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former City Hall</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>178958</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>St. Andrew's Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Located in the heart of the Civic District, the Former City Hall served as an important government office in Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former City Hall</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/city%20hall-detail_city-hall.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/city%20hall-detail_city-hall.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.851836986387,1.290885802004701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>College of Medicine Building</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>College of Medicine Building</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>16</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>169854</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>College Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The College of Medicine Building is located at the rear of the Singapore General Hospital’s compound, next to Tan Teck Guan Building.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>College of Medicine Building</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/college%20of%20medicine%20building-di_college_of_medicine_building.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/college%20of%20medicine%20building-di_college_of_medicine_building.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8341766834037,1.280845791323721,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Former Empress Place Building (now Asian Civilisations Museum)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Empress Place Building (now Asian Civilisations Museum)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179555</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Empress Place</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Situated at the mouth of the Singapore River, the Former Empress Place Building was an important government building in Singapore up to the 1980s.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Empress Place Building (now Asian Civilisations Museum)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20empress%20place%20building-detail_former-empress-place-building.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20empress%20place%20building-detail_former-empress-place-building.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8514223758178,1.287569860904295,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Goodwood Park Hotel (Tower Block)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Goodwood Park Hotel (Tower Block)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>22</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>228221</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Scotts Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Tower Wing of the present-day Goodwood Park Hotel was home to the German Teutonia Club, one of the earliest European national clubs in Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Goodwood Park Hotel (Tower Block)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/goodwood%20park%20hotel-detail_goodwood-park-hotel.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/goodwood%20park%20hotel-detail_goodwood-park-hotel.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8341268230073,1.3081221584692,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Victoria Theatre and Concert Hall</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Victoria Theatre and Concert Hall</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>9</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179556</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Empress Place</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>In the heart of Singapore’s historic Civic District stand the magnificent Victoria Theatre and Victoria Concert Hall with the iconic clock tower.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Victoria Theatre and Concert Hall</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/victoria%20theatre%20and%20concert%20hall-detail_victoria-theatre-and-concert-hall.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/victoria%20theatre%20and%20concert%20hall-detail_victoria-theatre-and-concert-hall.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8515208599813,1.288150281555952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Ying Fo Fui Kun</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ying Fo Fui Kun</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>98</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>48474</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Ayer Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Not far from Former Nagore Dargah on Telok Ayer Street is Ying Fo Fui Kun, Singapore’s oldest Hakka clan association.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Ying Fo Fui Kun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/ying%20fo%20fui%20kun-detail_ying-fo-fui-kun.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/ying%20fo%20fui%20kun-detail_ying-fo-fui-kun.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8484642604794,1.282501909958841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Armenian Apostolic Church of Saint Gregory the Illuminator</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Armenian Apostolic Church of Saint Gregory the Illuminator</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>60</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179366</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Hill Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Armenian Apostolic Church of Saint Gregory the Illuminator – commonly called the Armenian Church – is Singapore's oldest Christian church</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Armenian Apostolic Church of Saint Gregory the Illuminator</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/armenian%20church-di_armenian_church.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/armenian%20church-di_armenian_church.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8490742530568,1.293002486600678,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Former House of Tan Yeok Nee</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former House of Tan Yeok Nee</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>101</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>238466</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Penang Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Standing out prominently from its modern surroundings, the Chinese-style Former House of Tan Yeok Nee is the sole survivor of the ‘Four Grand Mansions’ that were built by Teochew towkays (businessmen)</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former House of Tan Yeok Nee</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/house%20of%20tan%20yeok%20nee-house_of_tan_yeok_nee_d.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/house%20of%20tan%20yeok%20nee-house_of_tan_yeok_nee_d.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8432424638754,1.29849933605822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Tan Teck Guan Building</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tan Teck Guan Building</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>16A</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>169855</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>College Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Standing beside the College of Medicine Building is a smaller, two-storey building known as Tan Teck Guan Building.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Tan Teck Guan Building</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tan%20teck%20guan%20building-di_tan_teck_guan_building.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tan%20teck%20guan%20building-di_tan_teck_guan_building.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8333300806251,1.280550064127812,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Former Cathay Building (now The Cathay)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Cathay Building (now The Cathay)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>2</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>229233</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Handy Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Art Deco façade wall fronting the modern glass architecture of The Cathay is the remnant of what used to be Malaya’s tallest building.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Cathay Building (now The Cathay)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20cathay%20building-di_former_cathay_building.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20cathay%20building-di_former_cathay_building.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8478534393916,1.299331871855907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Former Thong Chai Medical Institution</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Thong Chai Medical Institution</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>59803</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Eu Tong Sen Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Home to the first free traditional Chinese medical clinic for the poor in Singapore, the Former Thong Chai Medical Institution testifies to the Chinese pioneers’ spirit of mutual assistance and their</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Thong Chai Medical Institution</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20thong%20chai%20medical%20institution-former_thongchai.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20thong%20chai%20medical%20institution-former_thongchai.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8454341410597,1.287415973683062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Sri Perumal Temple</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sri Perumal Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>397</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>218123</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Serangoon Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Formerly known as Sri Narasimha Perumal Temple, Sri Srinivasa Perumal Temple is the first Hindu temple in Singapore dedicated to Sri Perumal, the Hindu deity more commonly known as Vishnu.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Sri Perumal Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sri%20perumal%20temple-di_sri_perumal_temple.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sri%20perumal%20temple-di_sri_perumal_temple.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.85590317724,1.313328845519086,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Thian Hock Keng</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Thian Hock Keng</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>158</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>68613</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Ayer Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Thian Hock Keng (‘Palace of Heavenly Happiness’) is one of Singapore’s oldest Hokkien temples.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Thian Hock Keng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/thian%20hock%20keng-di_thian_hock_keng.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/thian%20hock%20keng-di_thian_hock_keng.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8474892483384,1.281109555364749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Cathedral of the Good Shepherd</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cathedral of the Good Shepherd</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>A</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188533</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Queen Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Cathedral of the Good Shepherd is Singapore's oldest Catholic place of worship and the seat of the local Roman Catholic archbishop.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Cathedral of the Good Shepherd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/cathedral%20of%20the%20good%20shepherd-di_cathedral_of_the_good_shepherd.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/cathedral%20of%20the%20good%20shepherd-di_cathedral_of_the_good_shepherd.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8512358980123,1.296031642076849,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Church of the Nativity of the Blessed Virgin Mary</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Church of the Nativity of the Blessed Virgin Mary</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1259</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>534795</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Upper Serangoon Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Church of the Nativity of the Blessed Virgin Mary is one of the earliest Catholic churches built in the suburbs of Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Church of the Nativity of the Blessed Virgin Mary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20the%20nativity%20of%20the%20blessed%20virgin%20mary-di_church_of_the_nativity_of_the_blessed_virgin_mary.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20the%20nativity%20of%20the%20blessed%20virgin%20mary-di_church_of_the_nativity_of_the_blessed_virgin_mary.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8982177318252,1.373625930601896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Prinsep Street Presbyterian Church</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Prinsep Street Presbyterian Church</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>77</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188649</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Prinsep Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Prinsep Street Presbyterian Church is one of Singapore’s oldest Presbyterian churches. Its unique façade stands out from the modern buildings surrounding it, serving as a reminder of the contributions</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Prinsep Street Presbyterian Church</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/prinsep%20street%20presbyterian%20church-di_prinsep_street_presbyterian_church.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/prinsep%20street%20presbyterian%20church-di_prinsep_street_presbyterian_church.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8511096923479,1.301714218985443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>St. George's Church</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>St. George's Church</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>248818</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Minden Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Saint George’s Church is situated in the quiet environs off Minden Road, a short distance from the bustling shopping district of Orchard Road.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>St. George's Church</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/st%20georges%20church-di_st_georges_church.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/st%20georges%20church-di_st_georges_church.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8151311854038,1.304789779514383,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>St Joseph's Church</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>St Joseph's Church</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>143</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188020</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Victoria Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Saint Joseph’s Church on Victoria Street was the headquarters of the Portuguese Mission in Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>St Joseph's Church</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/st%20josephs%20church-di_st_josephs_church.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/st%20josephs%20church-di_st_josephs_church.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8531520602634,1.298358196521254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Yueh Hai Ching Temple</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yueh Hai Ching Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>30-B</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>48696</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Philip Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Dwarfed by modern skyscrapers in the heart of the Central Business District is one of Singapore’s oldest Chinese temples, Yueh Hai Ching Temple.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Yueh Hai Ching Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/yueh%20hai%20ching%20temple-detail_yueh-hai-ching-temple.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/yueh%20hai%20ching%20temple-detail_yueh-hai-ching-temple.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8492606483143,1.284581220840493,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Former Convent of the Holy Infant Jesus Chapel and Caldwell House (now CHIJMES)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Convent of the Holy Infant Jesus Chapel and Caldwell House (now CHIJMES)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>30</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>187996</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Victoria Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Owing to its central location, the Convent of the Holy Infant Jesus was also affectionately referred to as the Town Convent in the past.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Convent of the Holy Infant Jesus Chapel and Caldwell House (now CHIJMES)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20convent%20of%20the%20holy%20infant%20jesus%20chapel%20and%20caldwell%20house-detail_former-convent-of-the-holy-infant-jesus-chapel-and-caldwell-house.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20convent%20of%20the%20holy%20infant%20jesus%20chapel%20and%20caldwell%20house-detail_former-convent-of-the-holy-infant-jesus-chapel-and-caldwell-house.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8521599569877,1.29559437496145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Abdul Gafoor Mosque</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Abdul Gafoor Mosque</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>41</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>209369</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Dunlop Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Abdul Gafoor Mosque's charming architecture stands out amidst the surrounding shophouses in the historic Little India district.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Abdul Gafoor Mosque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/abdul%20gaffoor%20mosque-di_abdul_gaffoor_mosque.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/abdul%20gaffoor%20mosque-di_abdul_gaffoor_mosque.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8536908765925,1.30448453980179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Al-Abrar Mosque</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Al-Abrar Mosque</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>192</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>68635</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Ayer Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Located on Telok Ayer Street, a short walk from Thian Hock Keng, the Former Keng Teck Whay Building, and the Former Nagore Dargah, Al-Abrar Mosque is one of Singapore’s oldest mosques.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Al-Abrar Mosque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/al-abrar%20mosque-di_al-abrar_mosque.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/al-abrar%20mosque-di_al-abrar_mosque.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8471533714439,1.28050164311525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Telok Ayer Chinese Methodist Church</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Telok Ayer Chinese Methodist Church</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>235</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>68656</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Ayer Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Originally known as the Chinese Methodist Church, Telok Ayer Chinese Methodist Church was the first church established to cater exclusively to the spiritual needs of the Chinese Methodist community in</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Telok Ayer Chinese Methodist Church</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/telok%20ayer%20chinese%20methodist%20church-detail_telok_ayer.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/telok%20ayer%20chinese%20methodist%20church-detail_telok_ayer.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8469913542908,1.278473605648673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Hajjah Fatimah Mosque</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hajjah Fatimah Mosque</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>4001</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>199584</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Beach Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Hajjah Fatimah Mosque is one of the oldest mosques in Singapore, a rare example of one named after a woman.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Hajjah Fatimah Mosque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/hajjah%20fatimah%20mosque-di_hajjah_fatimah_mosque.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/hajjah%20fatimah%20mosque-di_hajjah_fatimah_mosque.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8628607048997,1.302888968210647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Jamae Mosque</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jamae Mosque</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>18</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>58767</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>South Bridge Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Like the nearby Sri Mariamman Temple, Jamae Mosque has been a familiar landmark on South Bridge Road since the mid-nineteenth century.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Jamae Mosque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/jamae%20mosque-di_jamae_mosque.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/jamae%20mosque-di_jamae_mosque.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8453378876804,1.283200367652735,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>MacDonald House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MacDonald House</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>40A</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>238838</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Orchard Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Located not far from the Istana and the Former Cathay Building, MacDonald House has a relatively plain and unadorned façade that does not appear to be exceptionally striking.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>MacDonald House</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/macdonald%20house-di_macdonald_house.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/macdonald%20house-di_macdonald_house.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8461263459043,1.299208616330714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Former Telok Ayer Market (now known as Lau Pa Sat)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Telok Ayer Market (now known as Lau Pa Sat)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>18</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>48582</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Raffles Quay</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Affectionately known as Lau Pa Sat (‘Old Market’) by generations of Singaporeans, the Former Telok Ayer Market was one of Singapore’s oldest markets.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Telok Ayer Market (now known as Lau Pa Sat)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20telok%20ayer%20market-di_former_telok_ayer_market.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20telok%20ayer%20market-di_former_telok_ayer_market.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8504252186138,1.280538250042169,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Former Supreme Court</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Supreme Court</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>178957</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>St. Andrew's Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Amidst the colonial buildings and skyscrapers of the Civic District rises the copper-green dome of the Former Supreme Court.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Supreme Court</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20supreme%20court-detail_former-supreme-court.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20supreme%20court-detail_former-supreme-court.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8512591262149,1.289747482161574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Former Tao Nan School (now The Peranakan Museum)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Tao Nan School (now The Peranakan Museum)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>39</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179941</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Armenian Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>A stone’s throw from the Armenian Church is a century-old building that used to house Tao Nan School, the first modern Chinese school in Singapore and one of the earliest of its kind in the Straits Se</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Tao Nan School (now The Peranakan Museum)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20tao%20nan%20school-detail_former-tao-nan-school.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20tao%20nan%20school-detail_former-tao-nan-school.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8491639352462,1.294236310955006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Former Ministry of Labour Building (now Family Justice Courts)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Ministry of Labour Building (now Family Justice Courts)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>59724</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Havelock Square</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Former Ministry of Labour Building is located not far away from the Former Thong Chai Medical Institution and Tan Si Chong Su.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Ministry of Labour Building (now Family Justice Courts)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20ministry%20of%20labour%20building-detail_former-ministry-of-labour-building.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20ministry%20of%20labour%20building-detail_former-ministry-of-labour-building.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.843043840887,1.286742322570733,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Former Nagore Dargah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Nagore Dargah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>140</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>68604</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Ayer Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Former Nagore Dargah is situated on the historic Telok Ayer Street, a short distance from Telok Ayer Chinese Methodist Church, Al-Abrar Mosque, Thian Hock Keng, and the Former Keng Teck Whay Build</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Nagore Dargah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/nagore%20dargah-di_nagore_dargah.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/nagore%20dargah-di_nagore_dargah.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8478013126591,1.281457101044553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Sri Mariamman Temple</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sri Mariamman Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>244</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>58793</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>South Bridge Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Together with Jamae Mosque, Sri Mariamman Temple – Singapore’s oldest Hindu temple – is an enduring icon on South Bridge Road which is a part of Chinatown.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Sri Mariamman Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sri%20mariamman%20temple-di_sri_mariamman_temple.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sri%20mariamman%20temple-di_sri_mariamman_temple.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.845305626955,1.282517934047293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Church of Our Lady of Lourdes</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Church of Our Lady of Lourdes</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188690</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Ophir Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Church of our Lady of Lourdes</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Church of Our Lady of Lourdes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20our%20lady%20of%20lourdes-di_church_of_our_lady_of_lourdes.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20our%20lady%20of%20lourdes-di_church_of_our_lady_of_lourdes.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8560706656673,1.303210540737439,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Former Saint Joseph's Institution (now Singapore Art Museum)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Saint Joseph's Institution (now Singapore Art Museum)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>71</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>189555</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bras Basah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Saint Joseph's Institution is the oldest Catholic boys' school in Singapore and was founded by the Christian Brothers (formally known as the Institute of the Brothers of the Christian Schools)</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Saint Joseph's Institution (now Singapore Art Museum)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20st%20josephs%20institution-detail_former-st-josephs-institution.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20st%20josephs%20institution-detail_former-st-josephs-institution.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8510509997571,1.297259000242275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Former Attorney-Generals Chambers (now Parliament House Block C)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Attorney-Generals Chambers (now Parliament House Block C)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>178880</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Parliament Place</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Tucked away in a corner near the Padang is a beautiful structure that once housed the Attorney-General's Chambers.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Attorney-Generals Chambers (now Parliament House Block C)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20attorney-generals%20chambers-detail_former-attorney-generals-chambers.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20attorney-generals%20chambers-detail_former-attorney-generals-chambers.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8508330003504,1.289116999965579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Former Nanyang University Library and Administration Building, Memorial and Arch</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Nanyang University Library and Administration Building, Memorial and Arch</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Nanyang Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Nanyang University, affectionately known as Nantah, was the first Chinese-language university in Southeast Asia and the second university in Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Nanyang University Library and Administration Building, Memorial and Arch</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20nanyang%20university%20library-di_former_nanyang_university_library.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20nanyang%20university%20library-di_former_nanyang_university_library.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.6831240000656,1.348314999785706,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Former Admiralty House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Admiralty House</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>345</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>758692</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Old Nelson Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Surrounded by several ancillary buildings and facilities on a sprawling estate, the Former Admiralty House used to accommodate key military commanders based in Singapore. It bears testimony to the for</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Admiralty House</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20admiralty%20house-di_former_admiralty_house.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20admiralty%20house-di_former_admiralty_house.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8245444675659,1.447377772309623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Former Hill Street Police Station</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Hill Street Police Station</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>140</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179369</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Hill Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Nicknamed the ‘Police Skyscraper’ in the past, the Former Hill Street Police Station is prominently located at the junction of Hill Street and River Valley Road.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Hill Street Police Station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20hill%20street%20police%20station-detail_former-hill-street-police-station.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20hill%20street%20police%20station-detail_former-hill-street-police-station.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8482726509091,1.290884559480503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Former Parliament House and Annex Building (now The Arts House)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Parliament House and Annex Building (now The Arts House)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179429</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Former Parliament House is likely to be the oldest surviving building in Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Parliament House and Annex Building (now The Arts House)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20parliament%20house%20and%20annex%20building-detail_former-parliament-house-and-annex-building.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20parliament%20house%20and%20annex%20building-detail_former-parliament-house-and-annex-building.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8508036487975,1.288749609187184,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Raffles Hotel</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Raffles Hotel</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>189673</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Beach Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Raffles Hotel is one of the most well-known luxury hotels in Singapore and the oldest surviving establishment of its kind on the island.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Raffles Hotel</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/raffles%20hotel-di_raffles_hotel.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/raffles%20hotel-di_raffles_hotel.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8542744039141,1.29493498590433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>National Museum of Singapore</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>National Museum of Singapore</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>93</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>178897</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Stamford Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>With its wide façade and large dome, the National Museum of Singapore has been a prominent landmark on Stamford Road for over a century.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>National Museum of Singapore</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/national%20museum-detail_national-museum.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/national%20museum-detail_national-museum.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.848485999001,1.296661821525349,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Former Sun Yat Sen Villa (now Sun Yat Sen Nanyang Memorial Hall)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Sun Yat Sen Villa (now Sun Yat Sen Nanyang Memorial Hall)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>12</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>327874</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Tai Gin Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Sun Yat-sen Nanyang Memorial Hall is one of the few surviving examples of villas that were once common sights in British Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Sun Yat Sen Villa (now Sun Yat Sen Nanyang Memorial Hall)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20sun%20yat%20sen%20villa-detail_former-sun-yat-sen-villa.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20sun%20yat%20sen%20villa-detail_former-sun-yat-sen-villa.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8472532810451,1.328134533654333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Sultan Mosque</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sultan Mosque</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>198833</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Muscat Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Formerly the royal mosque of the Sultan of Johor, Sultan Mosque represents the solidarity and unity of Muslims in Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Sultan Mosque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sultan%20mosque-di_sultan_mosque.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sultan%20mosque-di_sultan_mosque.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.859364099689,1.302540103109968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Maghain Aboth Synagogue</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Maghain Aboth Synagogue</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>187968</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Waterloo Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Located in the former Jewish neighbourhood, Maghain Aboth Synagogue is the oldest surviving synagogue not only in Singapore, but also in Southeast Asia. It is one of Singapore’s two synagogues, the ot</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Maghain Aboth Synagogue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/maghain%20aboth%20synagogue-detail_maghain-aboth-synagogue.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/maghain%20aboth%20synagogue-detail_maghain-aboth-synagogue.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8505994747947,1.298273205071769,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>St. Andrew's Cathedral</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>St. Andrew's Cathedral</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>11</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>178959</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>St. Andrew's Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Saint Andrew's Cathedral is Singapore’s oldest surviving Anglican place of worship and is the seat of the Anglican bishop of Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>St. Andrew's Cathedral</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/st%20andrews%20cathedral-di_st_andrews_cathedral.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/st%20andrews%20cathedral-di_st_andrews_cathedral.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8521927286694,1.29218835601652,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Tan Si Chong Su</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tan Si Chong Su</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>15</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>59568</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Magazine Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The history of Tan Si Chong Su (‘Ancestral Hall of the Tan Clan’) is inextricably linked to the influx of Chinese immigrants into Singapore during the late nineteenth century.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Tan Si Chong Su</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tan%20si%20chong%20su-di_tan_si_chong_su.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tan%20si%20chong%20su-di_tan_si_chong_su.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8429200308214,1.289095570887124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Chesed-El Synagogue</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chesed-El Synagogue</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>2</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>238693</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Oxley Rise</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Chesed-El Synagogue on Oxley Rise is one of two synagogues in Singapore, the other being Maghain Aboth Synagogue on Waterloo Street.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Chesed-El Synagogue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/chesed-el%20synagogue-detail_chesed-el-synagogue.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/chesed-el%20synagogue-detail_chesed-el-synagogue.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8426638865375,1.297256921903391,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Former Singapore Conference Hall and Trade Union House (now Singapore Conference Hall)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Singapore Conference Hall and Trade Union House (now Singapore Conference Hall)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>7</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>68810</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Shenton Way</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Former Singapore Conference Hall and Trade Union House was constructed to house the headquarters of the National Trades Union Congress (NTUC) as the fulfilment of an election promise, as well as t</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Singapore Conference Hall and Trade Union House (now Singapore Conference Hall)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20singapore%20conference%20hall%20and%20trade%20union%20house-di_former_singapore_conference_hall_and_trade_union_house.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/former%20singapore%20conference%20hall%20and%20trade%20union%20house-di_former_singapore_conference_hall_and_trade_union_house.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8489699999608,1.27620100028167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Esplanade Park Memorials</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Esplanade Park Memorials</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Esplanade Park, Connaught Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Prior to the first land reclamation in 1843, the original shoreline of Singapore ran across the present Padang.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Esplanade Park Memorials</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/esplanade%20park%20memorials-di_esplanade_park_memorials.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/esplanade%20park%20memorials-di_esplanade_park_memorials.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8533890002884,1.289683999654411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Former Tanjong Pagar Railway Station</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Tanjong Pagar Railway Station</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>30</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>89059</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Keppel Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Former Tanjong Pagar Railway Station was previously the southernmost terminal station of the Federated Malay States Railways.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Tanjong Pagar Railway Station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tanjong%20pagar%20railway%20station-di_tanjong_pagar_railway_station.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tanjong%20pagar%20railway%20station-di_tanjong_pagar_railway_station.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8368999999039,1.272796999550614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>Civilian War Memorial</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Civilian War Memorial</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Beach Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Not far from the Esplanade Park Memorials stands the Civilian War Memorial, the first memorial in Singapore dedicated to the civilian victims of the Japanese Occupation (1942–1945).</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Civilian War Memorial</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/civilian%20war%20memorial-p1040358.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/civilian%20war%20memorial-p1040358.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8547170001097,1.292883000197904,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Chung Cheng High School (Main) Administration Building and Entrance Arch</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chung Cheng High School (Main) Administration Building and Entrance Arch</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>439012</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Goodman Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>As one of Singapore’s oldest Chinese high schools, Chung Cheng High School was among the firsts to make higher education accessible to Chinese youth.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Chung Cheng High School (Main) Administration Building and Entrance Arch</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/chung%20cheng%20high%20school-chung_cheng_high_school_01_d.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/chung%20cheng%20high%20school-chung_cheng_high_school_01_d.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8907150004104,1.305363000070095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Sri Thendayuthapani</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sri Thendayuthapani</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>15</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>238065</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Tank Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Sri Thendayuthapani Temple, commonly referred to as the Chettiars’ Temple, is one of Singapore’s oldest Hindu temples dedicated to Murugan, the Hindu deity who is also known as Sri Thendayuthapani.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Sri Thendayuthapani</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sri_thendayuthapani_temple-detail_img.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/sri_thendayuthapani_temple-detail_img.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8431949998367,1.294260999789728,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Alkaff Upper Serangoon Mosque</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Alkaff Upper Serangoon Mosque</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>66</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>348261</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Pheng Geck Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Alkaff Upper Serangoon Mosque was constructed by the mercantile and landowning Alkaff family to serve the spiritual needs of the local Muslim community at large.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Alkaff Upper Serangoon Mosque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/detail_img%20(2).jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/detail_img%20(2).jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.870357999976,1.332938000036667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Jurong Town Hall</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jurong Town Hall</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>9</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>609431</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Jurong Town Hall Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>On a hill overlooking Jurong estate, Jurong Town Hall once served as the headquarters of Jurong Town Corporation (JTC, presently JTC Corporation).</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Jurong Town Hall</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/jurong_town_hall-main_image.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/jurong_town_hall-main_image.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7422109999893,1.328983999989778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Istana Kampong Gelam</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Istana Kampong Gelam</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>85</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>198501</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Sultan Gate</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Within the historic district of Kampong Gelam lies Istana Kampong Gelam ('Gelam Village Palace').</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Istana Kampong Gelam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/istana%20kampong%20glam/istana-kg-gelam.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/istana%20kampong%20glam/istana-kg-gelam.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8601069999393,1.302421000396703,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Former Command House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Former Command House</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>17</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>298791</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Kheam Hock Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The stately Former Command House is located near Bukit Timah Road, a major road constructed during the mid-nineteenth century and one of the last defences against the invading Japanese troops in 1942.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Former Command House</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/command%20house-di_command_house.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/command%20house-di_command_house.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8191480001635,1.325596999979447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Tou Mu Kung Temple</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tou Mu Kung Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>779A</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>534648</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Upper Serangoon Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Tou Mu Kung Temple is the oldest temple in Singapore dedicated to the Taoist deity Jiu Huang Ye (‘Nine Emperors’ or ‘Ninth Emperor’).</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Tou Mu Kung Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tou%20mu%20kung%20temple-di_tou_mu_kung_temple.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/tou%20mu%20kung%20temple-di_tou_mu_kung_temple.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.878844727614,1.355271227443863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Church of Saints Peter and Paul</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Church of Saints Peter and Paul</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>225A</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188551</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Queen St</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Church of Saints Peter and Paul is one of the oldest Catholic churches in Singapore that catered to a predominantly Chinese congregation.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Church of Saints Peter and Paul</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20st%20peter%20and%20st%20paul-di_church_of_st_peter_and_st_paul.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/church%20of%20st%20peter%20and%20st%20paul-di_church_of_st_peter_and_st_paul.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8512694266995,1.297879982575657,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>Hong San See</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hong San See</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>31</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>238975</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Mohamed Sultan Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Hong San See (‘Temple on Phoenix Hill’), perched on the side of Institution Hill off Mohamed Sultan Road, was established by Hokkien immigrants from Nan’an (or Lam Ann) County in Fujian Province, Chin</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Hong San See</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/hong%20san%20see-di_hong_san_see.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/hong%20san%20see-di_hong_san_see.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8408565434066,1.293303497111228,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name>Chinese High School Clock Tower</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chinese High School Clock Tower</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>673</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>269735</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bukit Timah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Chinese High School Clock Tower Building is the icon of the oldest Chinese-medium high school in Singapore and has been a visual landmark of Bukit Timah Road since its completion.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Chinese High School Clock Tower</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/chinese%20high%20school%20clock%20tower%20building-di_chinese_high_school_clock_tower_building.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/chinese%20high%20school%20clock%20tower%20building-di_chinese_high_school_clock_tower_building.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8014255754708,1.325110804111297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00069">
+      <name>The Istana and Sri Temasek</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>The Istana and Sri Temasek</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>238823</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Orchard Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Shielded from the bustling Orchard Road by a sprawling green lung, the Istana (‘Palace’ in Malay) is the official residence of the President of the Republic of Singapore.</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>The Istana and Sri Temasek</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/istana%20and%20sri%20temasek-detail_istana-and-sri-temasek.jpg?bc=white&amp;w=193">http://www.nhb.gov.sg/~/media/nhb/images/places/sites%20monuments/national%20monuments/istana%20and%20sri%20temasek-detail_istana-and-sri-temasek.jpg?bc=white&amp;w=193</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.843291917711,1.307130593215716,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_eedb908.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

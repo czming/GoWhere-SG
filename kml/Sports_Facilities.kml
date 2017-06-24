@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="SSC_Sports_Facilities">
+  <name>SSC_Sports_Facilities</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>SSC_Sports_Facilities</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Clementi Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clementi Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clementi Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Clementi Sports Hall, Clementi Swimming Complex, Clementi ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>518 Clementi Avenue 3 S(129907)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6872 9180/ 1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.764861415667,1.311014984629702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Clementi Stadium</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clementi Stadium</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clementi Stadium</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Clementi Stadium</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>10 West Coast Walk  NA S(127156)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6872 9180/ 1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7624885699529,1.309764598749436,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Delta Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delta Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Delta Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Delta Sports Hall, Delta Swimming Complex,Delta ClubFITT Gym, Delta Hockey Field</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>900 Tiong Bahru Road NA S(158790)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6471 9030/ 5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8200165528405,1.289374289202514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Farrer Park Field</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Farrer Park Field</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Farrer Park Field</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Farrer Park Field</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3 Rutland Road NA S(218254)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8495005141438,1.311711493486237,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Farrer Park Tennis Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Farrer Park Tennis Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Farrer Park Tennis Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Farrer Park Tennis Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1 Rutland Road NA S(218252)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8495005141438,1.311711493486237,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Geylang East Swimming Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Geylang East Swimming Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Geylang East Swimming Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Geylang East Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>601 Aljunied Crescent NA S(389862)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6745 7175</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8876598233972,1.320953673100983,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Kallang Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kallang Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kallang Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Kallang Practice Track, Kallang Squash , Tennis &amp; Netball Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>52 Stadium Road NA S(397724)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6348 1291</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8796045763265,1.305296303004806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Katong Swimming Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Katong Swimming Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Katong Swimming Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Katong Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>111 Wilkinson Road NA S(436752)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8860818867128,1.302105640413574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Pasir Ris Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pasir Ris Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pasir Ris Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Pasir Ris Outdoor Soccer Court, Pasir Ris ClubFITT Gym, Pasir Ris Sports Hall, Pasir Ris Tennis Centre, Pasir Ris Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>120 Pasir Ris Central NA S(519640)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6583 8557 / 6583 2696</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9518225004204,1.374448455862469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Queenstown Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Queenstown Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Queenstown Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Queenstown Swimming Complex, Queenstown Stadium</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>473 Stirling Road NA S(148948)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6473 7269</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8024352159159,1.296727200440587,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Sengkang Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sengkang Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sengkang Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Sengkang Hockey Field, Sengkang ClubFITT Gym, Sengkang Sports Hall, Sengkang Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>57 Anchorvale Road NA S(544964)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6315 3576</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8857892551519,1.395496583939034,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Serangoon Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Serangoon Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Serangoon Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Serangoon Stadium, Serangoon Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>33 Yio Chu Kang Road  NA S(545677)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6288 4606</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8743839735305,1.355946549348101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>St Wilfrid Sports Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>St Wilfrid Sports Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>St Wilfrid Sports Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>St Wilfrid Field, St Wilfrid Tennis Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3 St Wilfred Road NA S(327920)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8617190121181,1.325226893488998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Tampines Swimming Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tampines Swimming Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Tampines Swimming Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Tampines Swimming Complex, Tampines ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>505 Tampines Avenue 5 S(529652)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6260 1160/ 1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9396358041405,1.354295103518484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Toa Payoh Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toa Payoh Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Toa Payoh Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Toa Payoh Sports Hall, Toa Payoh Swimming Complex, Toa Payoh Stadium, Toa Payoh ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>297A Toa Payoh Lorong   6 S(319389)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6256 7151/ 2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8515663528913,1.330286468891364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Woodlands Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Woodlands Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Woodlands Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Woodlands Stadium, Woodlands Swimming Complex, Woodlands Sports Hall, Woodlands ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>2 Woodlands Street 12 S(738597)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6362 9100</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7803065737287,1.434895377034352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Yio Chu Kang Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yio Chu Kang Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Yio Chu Kang Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Yio Chu Kang Squash and Tennis Centre , Yio Chu Kang Swimming Complex, Yio Chu Kang Stadium, Yio Chu Kang Sports Hall, Yio Chu Kang ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>214 Ang Mo Kio Avenue 9 S(569780)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>64839370/ 1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8458666081654,1.383470823493693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Yishun Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yishun Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Yishun Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Yishun Sports Hall, Yishun Stadium, Yishun ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>101 Yishun Avenue 1 S(769130)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6851 8600/ 1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8311773965102,1.412018365745054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Yishun Swimming Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yishun Swimming Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Yishun Swimming Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Yishun Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>351 Yishun Avenue 1 S(769057)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6851 8600/ 1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8336923671507,1.424063322926513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Ang Mo Kio Swimming Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ang Mo Kio Swimming Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ang Mo Kio Swimming Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Ang Mo Kio Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1771 Ang Mo Kio Avenue 1 S(569978)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8498517050618,1.363078948451739,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Bedok Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bedok Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bedok Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bedok Sports Hall, Bedok Stadium,  Bedok ClubFITT Gym, Bedok Swimming Complex , Bedok Tennis Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3 Bedok North Street 2 S(469643)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6244 5385/ 6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9367160008611,1.326380797845766,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Bishan Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bishan Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bishan Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bishan Swimming Complex, Bishan Stadium, Bishan Sports Hall, Bishan ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>5 Bishan Street  14 S(579783)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6352 6631</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8509220711585,1.355282627602167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Bukit Batok Swimming Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Batok Swimming Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bukit Batok Swimming Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bukit Batok Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>2 Bukit Batok Street 22 S(659581)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7479542267021,1.344331597364787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Bukit Gombak Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Gombak Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bukit Gombak Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bukit Gombak Sports Hall, Bukit Gombak Stadium, Bukit Gombak ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>810 Bukit Batok West Avenue 5 S(659088)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6896 2193/ 4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7521702210703,1.359799536877502,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Burghley Squash and Tennis Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Burghley Squash and Tennis Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Burghley Squash and Tennis Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Burghley Squash and Tennis Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>43 Burghley Drive NA S(559020)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8604865280632,1.359390817831081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Choa Chu Kang Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Choa Chu Kang Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Choa Chu Kang Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Choa Chu Kang Swimming Complex, Choa Chu Kang Sports Hall, Choa Chu Kang Stadium, Choa Chu Kang ClubFITT Gym, Choa Chu Kang Tennis Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1 Choa Chu Kang Street 53 S(689236)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6767 1735/ 6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7479207124453,1.390666172043658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Kallang Basin Swimming Complex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kallang Basin Swimming Complex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kallang Basin Swimming Complex</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Kallang Basin Swimming Complex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>21 Geylang Bahru Lane NA S(339627)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6348 1291</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8724910181444,1.32255951909476,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Geylang Field</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Geylang Field</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Geylang Field</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Geylang Field</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>30 Lorong 12 Geylang S(399005)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6745 7175</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8775031546518,1.309836995001856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Hougang Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hougang Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Hougang Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Hougang Sports Hall, Hougang Swimming Complex, Hougang Stadium, Hougang ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>93 Hougang Avenue 4 S(538832)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6315 8671</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8880717332203,1.370573487857562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Jalan Besar Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalan Besar Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jalan Besar Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Jalan Besar Swimming Complex, Jalan Besar Stadium</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>100 Tyrwhitt Road NA S(207542)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6293 9058</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8599617175176,1.310854910486697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Jurong East Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jurong East Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jurong East Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Jurong East Sports Hall, Jurong East Stadium, Jurong East Swimming Complex, Jurong East ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>21 Jurong East Street 31 S(609517)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6896 3565/ 6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7291750573066,1.34685582634525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Jurong West Sports Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jurong West Sports Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jurong West Sports Centre</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Jurong West Sports Hall, Jurong West Tennis Centre, Jurong West Stadium, Jurong West Swimming Complex, Jurong West ClubFITT Gym</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>20 Jurong West Street 93 S(648965)</td>
+</tr>
+<tr>
+<td>Contact No</td>
+<td>6896 3566 / 6563 5052</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.6937689021903,1.338418064928276,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_ebc2248.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

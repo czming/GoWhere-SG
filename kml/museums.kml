@@ -1,0 +1,4261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="MUSEUM">
+  <name>MUSEUM</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>MUSEUM</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Fuk Tak Chi Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Fuk Tak Chi Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>76</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>48464</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Ayer Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>One of the oldest temples in Singapore, this Chinese temple began as a small shrine set up by Hakka and Cantonese immigrants in 1824.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.fareastsquare.com.sg/home/index.aspx?key=fuktakchimuseum">http://www.fareastsquare.com.sg/home/index.aspx?key=fuktakchimuseum</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29491.1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Fuk Tak Chi Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/fu%20tak%20chi.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/fu%20tak%20chi.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8488089428586,1.282981492587626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>ArtScience Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ArtScience Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>10</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>18956</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bayfront Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Artscience Museum a Marina Bay Sands is Southeast Asia's leading cultural institution that explores the inter-relation between art, science, technolgy and culture.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.marinabaysands.com/ArtscienceMuseum">www.marinabaysands.com/ArtscienceMuseum</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29855.6202</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>ArtScience Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/art%20science.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/art%20science.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8592339995762,1.286278000207927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>HDB Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>HDB Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>480</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>HDB Hub, Basement</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>310480</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Toa Payoh Lorong 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The HDB gallery serves as a one-stop destination that provides learning opportunities about Singapore's Public Housing for both Singaporeans and overseas visitors.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.hdb.gov.sg/hdbgallery">www.hdb.gov.sg/hdbgallery</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34941.0592</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>HDB Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/hdb.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/hdb.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8488380003115,1.332269000339048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Home Team Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Home Team Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>501</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>698928</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Old Choa Chu Kang Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Home Team Gallery is a two storey building with a mezzanine floor located within the Home Team Academy.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.hometeam.sg">www.hometeam.sg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>39334.5927</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Home Team Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/home%20team.png">http://www.museums.com.sg/~/media/mrt/about%20us%20images/home%20team.png</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7220710002992,1.371999999880496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Infocomm Experience Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Infocomm Experience Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>189562</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bras Brasah Road, Esplanade Exchange</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Infocomm Experience Centre is the permanent infocomm showcase srt up by Infocomm Development Authority of Singapore (IDA) to present the possibilities and benefits of Nationwide Broadband Network</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.iexperience.sg">www.iexperience.sg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>30623.1163</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Infocomm Experience Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/infocomm.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/infocomm.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>B1-10/19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8555450000038,1.293218999831914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Republic of Singapore navy Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Republic of Singapore navy Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>498794</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Tahan Merah Coast Road, outside changi Naval Base</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Take a trip down memory lane, as you have view guns and other components taken from our warships.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/navymuseum/home.html">http://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/navymuseum/home.html</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>33301.5354</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Republic of Singapore navy Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/republic%20of%20singapore%20navy.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/republic%20of%20singapore%20navy.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 104.0165160000726,1.317434999995378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Singapore Coins &#38; Notes Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore Coins &amp; Notes Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>[Currently undergoing revamp &amp; relocating] The Singapore Coins and Notes Museum, is Singapore first and only museum dedicated to displaying currency.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.singaporecoinsandnotesmuseum.com/the_news.php">http://www.singaporecoinsandnotesmuseum.com/the_news.php</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34080.9626</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore Coins &amp; Notes Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20coins.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20coins.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7395421317377,1.324488854378042,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Singapore Maritime Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore Maritime Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>18988</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Marina South Pier,31 Marina Coastal Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The gallery among other things, provide insights into Maritime Singapore to help visitors understand the story of contemporary Maritime Singapore, its importance to Singapore's economy, and the divers</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.mpa.gov.sg">www.mpa.gov.sg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>28170.5751</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore Maritime Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20maritime.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20maritime.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8633369996361,1.271038999725742,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Singapore Sports Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore Sports Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>6</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>397698</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Stadium Walk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Sports Museum was first establised in 1983 and it is a place where sporting dreams are celebrated</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.sportshub.com.sg/venues/pages/singapore-sports-museum.aspx">www.sportshub.com.sg/venues/pages/singapore-sports-museum.aspx</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31532.398</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore Sports Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20sports.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20sports.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8734530003919,1.301442000363637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Baba House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Baba House</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>157</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>88883</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Neil Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Baba House plays an important role in conserving our distinctive Peranakan heritage in one of the last surviving Peranakan-style houses in its original state in Singapore.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nus.edu.sg/cfa/museum/about.php">http://www.nus.edu.sg/cfa/museum/about.php</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>28836.52</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Baba House</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/baba.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/baba.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8373621754538,1.277061744450177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>The Changi Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>The Changi Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>507707</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Upper Changi Road North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Walk through the adverse journeys of Singapore's bravehearts.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.changimuseum.sg/">http://www.changimuseum.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>38247.44</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>The Changi Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/the%20changi.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/the%20changi.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9740067932506,1.362166650462085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Chinatown Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chinatown Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>48</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>59207</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Pagoda Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>[Currently undergoing revamp] Relive a past era when Chinese immigrants risked their lives crossing the South China Sea for a better tomorrow in Singapore.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.chinatownheritagecentre.sg/">http://www.chinatownheritagecentre.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29557.09</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Chinatown Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/chinatown%20heri.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/chinatown%20heri.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8443777104248,1.283578306099369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>NUS Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>NUS Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>University Cultural Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>119279</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Kent Ridge Crescent</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>A memorable experience of ancient culture and contemporary Asian artworks awaits you at NUS Museum.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nus.edu.sg/cfa/museum/index.php">http://www.nus.edu.sg/cfa/museum/index.php</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31531.74</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>NUS Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/nus.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/nus.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7724678300592,1.301435631715889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>The Battle Box</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>The Battle Box</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>2</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179872</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Cox Terrace</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>This used to be the largest underground military operations complex in Singapore during World War II. Witness the drama of British surrender to the Japanese, as wax figurines, video and audio effects.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.hfcsingapore.com/aboutus_battlebox.html">http://www.hfcsingapore.com/aboutus_battlebox.html</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>30875.34</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>The Battle Box</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/battle.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/battle.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.846163257411,1.29550008741121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Police Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Police Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>28</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Police Headquarters Tower</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>329560</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Irrawaddy Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Be immersed in an enriching learning journey that details SPF's role in nation building.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.police.gov.sg/spfheritage/">http://www.police.gov.sg/spfheritage/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34029.55</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Police Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/police%20heritage.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/police%20heritage.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8450195437901,1.324025655199886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Red Dot Design Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Red Dot Design Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>28</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>red dot Traffic</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>69120</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Maxwell Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The red dot design museum is the physical embodiment of the red dot design awards, an exclusive exhibition venue for red dot design award winners.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.red-dot.sg/museum/">http://www.red-dot.sg/museum/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>28991.32</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Red Dot Design Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/red%20dot.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/red%20dot.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8453488277873,1.278461676295424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Fort Siloso</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Fort Siloso</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>33</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>99981</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Allanbrooke Road, Sentosa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Singapore's only preserved coastal fortress has both indoor and outdoor exhibitions, allowing visitors a glimpse into Singapore's colonial past.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.sentosa.com.sg/en/attractions/siloso-point/fort-siloso-tours/">http://www.sentosa.com.sg/en/attractions/siloso-point/fort-siloso-tours/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>25661.57</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Fort Siloso</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/fort%20silo.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/fort%20silo.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8279502394097,1.248348603391266,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Malay Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Malay Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>85</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>198501</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Sultan Gate</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Experience our Malays' immensely rich cultural legacy in this regal compound, which was a former king's palace.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.malayheritage.org.sg/">http://www.malayheritage.org.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31688.92</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Malay Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/malay.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/malay.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.85987591471,1.302857710615297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Civil Defence Heritage Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Civil Defence Heritage Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>62</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Central Fire Station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179367</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Hill Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>This oldest existing fire station in Singapore reveals the developments of civil defence in Singapore from the 19th century till today.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.scdf.gov.sg/community-volunteers/visit-scdf-establishments/cd-heritage-gallery">http://www.scdf.gov.sg/community-volunteers/visit-scdf-establishments/cd-heritage-gallery</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>30494.22</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Civil Defence Heritage Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/civil%20def.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/civil%20def.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.849115130882,1.292053355464769,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>BCA Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BCA Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>200</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>579700</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Braddell Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Find out what goes on behind the scenes from the drawing board to the construction of a building.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.bca.gov.sg/academy/gallery.aspx">http://www.bca.gov.sg/academy/gallery.aspx</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>36283.46</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>BCA Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/bca.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/bca.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8585503501975,1.344409114983165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Lee Kong Chian Natural History Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Lee Kong Chian Natural History Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>2</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>117377</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Conservatory Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://lkcnhm.nus.edu.sg/">http://lkcnhm.nus.edu.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31551.9022</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Lee Kong Chian Natural History Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/images/lkc%20image.jpg?h=459&amp;&amp;w=689&amp;la=en">http://www.museums.com.sg/~/media/mrt/images/lkc%20image.jpg?h=459&amp;&amp;w=689&amp;la=en</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7736400002151,1.301617999644966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>National Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>National Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>100</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188064</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Victoria Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Check out the Library's exhibition and gallery spaces to view exhibitions related to their library collections and themes.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nl.sg/">http://www.nl.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31066.18</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>National Library</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/national%20library.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/national%20library.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.854281790792,1.29722592267859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Mint Museum of Toys</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mint Museum of Toys</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>26</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188382</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Seah Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Whether you are a child at heart or an avid toy collector, the Mint Museum of Toys has something for everyone.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.emint.com/">http://www.emint.com/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>30963.22</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Mint Museum of Toys</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/mint%20museum.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/mint%20museum.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8546464121479,1.296294785654452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Tan Swie Hian Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tan Swie Hian Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>460</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>387601</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Sims Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>This museum highlights Tan's multi-faceted artistic career and his diverse range of works.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.tomlinson-collection.com/museum1.html">http://www.tomlinson-collection.com/museum1.html</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>33106.9</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Tan Swie Hian Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/tshmu15a.jpg?h=584&amp;w=876&amp;la=en">http://www.museums.com.sg/~/media/mrt/about%20us%20images/tshmu15a.jpg?h=584&amp;w=876&amp;la=en</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8869255603635,1.3156809831723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Healthzone</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Healthzone</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>168937</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Second Hospital Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Experience key health issues, which you can relate to in your everyday lives, and pick up skills which will enable you to adopt a healthy lifestyle.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.hpb.gov.sg/healthzone">http://www.hpb.gov.sg/healthzone</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29088.1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Healthzone</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/healthzone.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/healthzone.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8383231651385,1.279336944106799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Woodbridge Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Woodbridge Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>10</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Buangkok Green Medical Park</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>539747</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Buangkok Green</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Explore the history of mental health services in Singapore via artefacts, documents, and photographs from the old Woodbridge Hospital in Yio Chu Kang.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="https://www.imh.com.sg/page.aspx?id=472">https://www.imh.com.sg/page.aspx?id=472</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>40558.26</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Woodbridge Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/woodbridge.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/woodbridge.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.884992493203,1.383068446794868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Land Transport Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Land Transport Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>219428</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Hampshire Road Blk 1 Level 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The gallery provides an interesting multi-sensory experience for visitors using various presentation methods and formats to continually engage visitors in a fun and interactive way.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.lta.gov.sg/ltgallery/">http://www.lta.gov.sg/ltgallery/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>32273.43</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Land Transport Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/land%20transport.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/land%20transport.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8493513691736,1.308143902338379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Singapore City Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore City Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>45</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>The URA Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>69118</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Maxwell Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Be captivated by an amazing bird's eye view of Singapore's central hub - not from the top of a skyscraper - but a finely detailed architectural model measuring a mere 11 by 11 metres.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.ura.gov.sg/gallery/">http://www.ura.gov.sg/gallery/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29116.4</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore City Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20city%20gallery.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20city%20gallery.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8453230450124,1.279592856074209,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Peranakan Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Peranakan Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>39</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179941</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Armenian Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Experience the unique culture of the Peranakans, an eclectic community that can only be found in Southeast Asia.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.peranakanmuseum.sg/">http://www.peranakanmuseum.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>30737.39</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Peranakan Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/pera.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/pera.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8491478514277,1.294252499186076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Reflections at Bukit Chandu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Reflections at Bukit Chandu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>31-K</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>118458</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Pepys Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>A WWII interpretative centre of National Archives. Discover the Malay Regiment soldiers who fought in the Battle of Pasir Panjang and reflect upon the universal values of courage, loyalty and honour.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nhb.gov.sg/NHBPortal/Museums/ReflectionsatBukitChandu">http://www.nhb.gov.sg/NHBPortal/Museums/ReflectionsatBukitChandu</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29110.95</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Reflections at Bukit Chandu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/rbc_day.jpg?h=457&amp;&amp;w=688&amp;la=en">http://www.museums.com.sg/~/media/mrt/about%20us%20images/rbc_day.jpg?h=457&amp;&amp;w=688&amp;la=en</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7942418906068,1.279543296661232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Singapore Discovery Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore Discovery Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>510</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>638365</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Upper Jurong Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Comprising five main galleries over some 4500 square metres, the new Centre tells the Singapore Story with even more exciting interactive and multi-sensory exhibits.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.sdc.com.sg/">http://www.sdc.com.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34992.17</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore Discovery Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20discovery.png">http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20discovery.png</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.6789426774996,1.332726408078476,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Gan Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gan Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>18</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>89832</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bukit Pasoh Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Gan Heritage Centre seek to honour and preserve the rich heritage of the Gan Clan; to celebrate the historic and cultural significance of the Gan ancestry; to connect the younger generation to their g</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://ganclan.sg">http://ganclan.sg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29070.4149</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Gan Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/gan.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/gan.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8408230000597,1.279177000144551,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>MOE Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MOE Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>149599</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>402 Commonwealth Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.moe.gov.sg">http://www.moe.gov.sg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31768.0247</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>MOE Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/images/hcbuilding.jpg?h=459&amp;&amp;w=688&amp;la=en">http://www.museums.com.sg/~/media/mrt/images/hcbuilding.jpg?h=459&amp;&amp;w=688&amp;la=en</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7982309997886,1.303573000149052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Eurasian Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Eurasian Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>139</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Eurasian Community House</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>429744</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Celyon Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.eurasians.org.sg">www.eurasians.org.sg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>32489.7059</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Eurasian Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/images/1a%20eurasian%20community%20house.jpg?h=516&amp;&amp;w=688&amp;la=en">http://www.museums.com.sg/~/media/mrt/images/1a%20eurasian%20community%20house.jpg?h=516&amp;&amp;w=688&amp;la=en</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8993969998423,1.310099000327085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Tan Tock Seng Hospital Heritage Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tan Tock Seng Hospital Heritage Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>11</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>308433</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Jalan Tan Tock Seng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Honouring the legacy of founder Mr Tan Tock Seng, the museum features narrative displays, salvaged historical objects and a time capsule.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.ttsh.com.sg/TTSH-Heritage-Museum/">http://www.ttsh.com.sg/TTSH-Heritage-Museum/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>33771.03</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Tan Tock Seng Hospital Heritage Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/tan%20tock.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/tan%20tock.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8459406392494,1.321687687255967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Ngee Ann Cultural Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ngee Ann Cultural Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>97</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Ngee Ann Cultural Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>238066</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Tank Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Ngee Ann Kongsi Collections permanently houses the art collection of the Kongsi. It aims to support and encourage Teochew artists in their artistic endeavours.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.ngeeann.com.sg/en/ngee-ann-cultural-centre/">http://www.ngeeann.com.sg/en/ngee-ann-cultural-centre/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>30853.01</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Ngee Ann Cultural Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/ngee%20ann.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/ngee%20ann.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8434492062483,1.295298155113159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Grassroots Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Grassroots Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>70</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>118176</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>South Buona Vista Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Grassroots Heritage Centre chronicles the history of grassroots organisations through a rich array of grassroots artefacts, historical accounts, pictures, audio reels and exhibits.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nacli.pa.gov.sg/grassroots-heritage-centre.html">http://www.nacli.pa.gov.sg/grassroots-heritage-centre.html</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29430.87</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Grassroots Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/grassroots.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/grassroots.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7891405735249,1.282436456777829,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Marina Barrage</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Marina Barrage</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>8</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>18951</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Marina Gardens Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The Marina Barrage is a dam built across the Marina Channel, forming Singapore's first reservoir in the city.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.pub.gov.sg/marina/Pages/default.aspx">http://www.pub.gov.sg/marina/Pages/default.aspx</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29258.31</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Marina Barrage</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/marina%20barrage.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/marina%20barrage.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8708208697918,1.280875992645974,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Asian Civilisations Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Asian Civilisations Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179555</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Empress Place</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>One of Singapore's largest and grandest museum, the Asian Civilisations Museum traces more than 5,000 years of our ancestral culture.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.acm.org.sg/">http://www.acm.org.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29986.31</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Asian Civilisations Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/asian.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/asian.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8513708886694,1.287459980942481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Singapore General Hospital Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore General Hospital Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>11</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>168751</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Third Hospital Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Equipped with the latest state-of-the-art audiovisual and multimedia technology, the SGH Museum encapsulates almost 200 years of history of medical education and medicine in Singapore.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.sgh.com.sg/about-us/sgh-museum/Pages/SGH-Museum.aspx">http://www.sgh.com.sg/about-us/sgh-museum/Pages/SGH-Museum.aspx</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>29164.7</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore General Hospital Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/the%20sgh.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/the%20sgh.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8357403189782,1.280029691402618,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Republic of Singapore Airforce Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Republic of Singapore Airforce Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>400</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>534234</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Airport Road, Paya Lebar Airbase</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Trace the development of the Republic of Singapore Air Force from its early days the Royal Air Force in 1927 to the present.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/air_force/">http://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/air_force/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>36366.08</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Republic of Singapore Airforce Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/republic%20of%20singapore%20air%20force.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/republic%20of%20singapore%20air%20force.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8997318552728,1.345155522938099,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Singapore Art Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore Art Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>71</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>189555</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bras Basah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Enjoy, explore and experience modern and contemporary art in one of the most exquisite location in town.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.singaporeartmuseum.sg/">http://www.singaporeartmuseum.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31067.8</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore Art Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/sam.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/sam.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.850948911553,1.297240598945015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Chinese Heritage Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chinese Heritage Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>12</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>637721</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Nanyang Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>A treasure trove of discoveries about the Chinese venturing outside of their motherland in China awaits you.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://chc.ntu.edu.sg/Pages/Home.aspx">http://chc.ntu.edu.sg/Pages/Home.aspx</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>36214.28</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Chinese Heritage Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/chinese%20heri.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/chinese%20heri.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.6839985292988,1.343779013296794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>IRAS Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>IRAS Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>55</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Revenue House</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>307987</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Newton Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The gallery explores tax in Singapore in the past, the present and the future through a highly interactive experience that allows visitors to discover much of this story for themselves.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="https://www.iras.gov.sg/irashome/About-Us/Our-Organisation/IRAS-Gallery/">https://www.iras.gov.sg/irashome/About-Us/Our-Organisation/IRAS-Gallery/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>33555.24</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>IRAS Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/iras.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/iras.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8421205253259,1.319736175352503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Memories at Old Ford Factory</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Memories at Old Ford Factory</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>351</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>588192</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Upper Bukit Timah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>National monument where the British surrendered Singapore to the Japanese on 15 Feb 1942, now restored by the National Archives to house a permanent WWII exhibition gallery and archives repositories.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nas.gov.sg/moff/">http://www.nas.gov.sg/moff/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>37199.39</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Memories at Old Ford Factory</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/old%20ford.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/old%20ford.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7688552505037,1.352691729313052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>National Museum of Singapore</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>National Museum of Singapore</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>93</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>178897</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Stamford Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>The National Museum is Singapore's oldest museum with the youngest and most innovative soul.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nationalmuseum.sg/">http://www.nationalmuseum.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31010.63</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>National Museum of Singapore</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/national%20museum.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/national%20museum.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8485048687886,1.296723589527093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>NEWater Visitor Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>NEWater Visitor Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>20</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>486593</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Koh Sek Lim Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Discover the importance of water and NEWater's role as one of our Four National Taps.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.pub.gov.sg/water/newater/visitors/Pages/default.aspx">http://www.pub.gov.sg/water/newater/visitors/Pages/default.aspx</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34045.8</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>NEWater Visitor Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/new%20water.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/new%20water.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9586933979169,1.324169452477725,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>NHGP's Polyclinic's Gallery</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>NHGP's Polyclinic's Gallery</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Bukit Batok Polyclinic</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>659164</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bukit Batok West Avenue 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>This Museum documents the history of modern medical care in Singapore from 1819 with the arrival of Sir Stamford Raffles and has a display of more than 100 artefacts from the past like the travelling</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.museums.com.sg/about-us/mr-directory/healthcare/national-healthcare-group-polyclinics-gallery-of-memories">http://www.museums.com.sg/about-us/mr-directory/healthcare/national-healthcare-group-polyclinics-gallery-of-memories</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>37126.41</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>NHGP's Polyclinic's Gallery</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/national%20health.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/national%20health.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7476468450097,1.352031064584192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>The Intan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>The Intan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>69</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>427231</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Joo chiat Terrace</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>With a deep love for all things Peranakan, owner, collector, and 7th generation Peranakan, Alvin Yapp, has turned his passion into a haven for this fascinating and ever-adapting culture. Over the past</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.the-intan.com">www.the-intan.com</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>32974.8028</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>The Intan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/intan.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/intan.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.900967999697,1.314486000266394,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Art Retreat Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Art Retreat Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>10</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Ubi Techpark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>408564</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Ubi Crescent</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Singapore's first private museum of modern Asian and European art.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.artretreatmuseum.com/">http://www.artretreatmuseum.com/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34266.88</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Art Retreat Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/art%20retreat.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/art%20retreat.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>45</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8961542031331,1.326171209250965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Singapore Philatelic Museum</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore Philatelic Museum</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>23-B</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>179807</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Coleman St</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Immerse yourself in the world of stamps!</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.spm.org.sg">http://www.spm.org.sg</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>30580.38</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Singapore Philatelic Museum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20philatelic.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/singapore%20philatelic.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8487158234255,1.292832558661833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Science Centre Singapore</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Science Centre Singapore</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>15</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>609081</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Science Centre Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Learn about the wonders of science through a year-long calendar of innovative exhibitions, programmes and activities.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.science.edu.sg/">http://www.science.edu.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>35053.54</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Science Centre Singapore</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/science%20centre.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/science%20centre.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.736269714867,1.333284360531965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Sun Yat Sen Nanyang Memorial Hall</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sun Yat Sen Nanyang Memorial Hall</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>12</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>327874</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Tai Gin Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Built in the late 19th century, the father of 1911 Chinese Revolution, Dr Sun Yat Sen, used to reside in this two-storey bungalow whenever he visited Singapore.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.wanqingyuan.org.sg/">http://www.wanqingyuan.org.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34481.09</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Sun Yat Sen Nanyang Memorial Hall</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/sun%20yat%20sen.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/sun%20yat%20sen.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8472173387022,1.32810921164976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>8Q sam</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>8Q sam</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>8</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>188535</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Queen Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>8Q sam is a contemporary art space with fresh, multi-disciplinary, interactive and community oriented programming; a place where the public can directly experience the work and ideas of living artists</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.singaporeartmuseum.sg/">http://www.singaporeartmuseum.sg/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>31062.46</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>8Q sam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.yoursingapore.com/see-do-singapore/arts/museums-galleries/8q-sam/jcr:content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg">http://www.yoursingapore.com/see-do-singapore/arts/museums-galleries/8q-sam/jcr:content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8520674187611,1.297192297781605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Army Museum of Singapore</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Army Museum of Singapore</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>520</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSPOSTALCODE</td>
+<td>638367</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Upper Jurong Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>Launched in conjunction with the 40th anniversary of National Service, the museum charts the development of the Army and honours the contributions of our soldiers.</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/army/microsites/armymuseum/">http://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/army/microsites/armymuseum/</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LANDYADDRESSPOINT</td>
+<td>34901.55</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Army Museum of Singapore</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.museums.com.sg/~/media/mrt/about%20us%20images/army.jpg">http://www.museums.com.sg/~/media/mrt/about%20us%20images/army.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.6768145953503,1.331906740822655,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_709bf90.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

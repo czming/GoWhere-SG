@@ -1,0 +1,3437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="RelaxSG">
+  <name>RelaxSG</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>RelaxSG</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Sembawang Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sembawang Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sembawang Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Barbecue pits 
+Children's play equipment 
+Fitness corneror stations and fitness equipmentor exercise station 
+Foot reflexology footpath 
+Restroom or Toilets with or without shower facilities</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>At the end of Sembawang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8364799623345,1.461179913604916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Toa Payoh Town Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toa Payoh Town Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Toa Payoh Town Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Foot reflexology footpath 
+Food and beverage area or restaurant or café 
+Benches 
+Jogging path or running track 
+Pond 
+Pavilions with or without stage 
+Shelters 
+Toilets</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Junction of Toa Payoh Lor 2 and Toa Payoh Lor 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8484399279339,1.330619991755844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Yishun Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yishun Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Yishun Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Toilets 
+Multi purpose court  or corner 
+Jogging path or running track 
+Fitness corner or stations and fitness equipment or exercise station 
+Cycling track 
+Children's play equipment 
+Amphitheatre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bounded by Yishun Ave 4, Yishun Central, Yishun Ave 11 and Yishun Ring Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8426399336409,1.42444997838137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Ang Mo Kio Town Garden West</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ang Mo Kio Town Garden West</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ang Mo Kio Town Garden West</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Foot reflexology footpath 
+Fitness corner or stations and fitness equipment or exercise station 
+Food and beverage area or restaurant or cafe 
+Benches 
+Amphitheatre 
+Jogging path or running track 
+Pond 
+Shelters 
+Taichi corner 
+Event lawn</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Opposite Ang Mo Kio Town Library, along Ang Mo Kio Avenue 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8426981047053,1.374115744861203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Bishan - Ang Mo Kio Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bishan - Ang Mo Kio Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bishan - Ang Mo Kio Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Carpark Toilets Event lawn Childrens playground Health and fitness activities Playground Foot reflexology footpath Fitness corner or stations and fitness equipment or exercise station Food and beverage area or restaurant or cafe Dog run corner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Ang Mo Kio Ave 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8380676598611,1.36438131796899,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Bukit Batok Nature Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Batok Nature Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bukit Batok Nature Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Fitness corner or stations and fitness equipment or exercise station 
+Foot reflexology footpath  
+Jogging path or running track  
+Look out points  
+Playground 
+Restroom  or Toilets with or without shower facilities 
+Shelters 
+World War II Memorial Plaque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bukit Batok East Ave 2, Bukit Batok East Ave 6, Lorong Sesuai</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7644539615665,1.350220652476509,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Changi Beach Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Changi Beach Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Changi Beach Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Food and beverage area or restaurant or cafe 
+Cycling track Childrens play equipment 
+BYOP 
+Barbecue pits 
+Fitness corner or stations and fitness equipment or exercise station 
+Jogging path or running track 
+Playground 
+Restroom or Toilets with or without shower facilities 
+Skate and bicycle kiosk 
+Sand play area 
+World War II Memorial Plaque 
+Event lawn 
+Drinking fountain</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Nicoll Drive and Changi Coast Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9930094367432,1.390700983664927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Jurong Central Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jurong Central Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jurong Central Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Fitness corner or stations and fitness equipment or exercise station 
+Grand lawn 
+Jogging path or running track 
+Playground 
+Restroom/Toilets with or without shower facilities 
+Event lawn</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Jalan Boon Lay junction with Boon Lay Way</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.707560608773,1.337442349431382,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Kallang Riverside Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kallang Riverside Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kallang Riverside Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Toilets 
+Shelters 
+Pergola</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Kallang Road, Stadium Link and Crawford Street</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8705604948596,1.306939238662946,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Kent Ridge Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kent Ridge Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kent Ridge Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Drinking fountain 
+Toilets 
+World War II Memorial Plaque 
+Shelters 
+Pond 
+Nature trail 
+Multi purpose court or corner 
+Mountain bike trail 
+Look out points 
+Fitness corner or stations and fitness equipment or exercise station 
+Canopy walk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Vigilante Drive off South Buona Vista Road. Access via Vigilante Drive, Science Park Drive and Pepys</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7905766711218,1.283992914624747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>MacRitchie Reservoir Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MacRitchie Reservoir Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>MacRitchie Reservoir Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Drinking fountain 
+Toilets 
+Event lawn 
+Shelters 
+Nature trail 
+Jogging path or running track 
+Fitness corner or stations and fitness equipment or exercise station 
+Food and beverage area or restaurant or café 
+Benches</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Lornie Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8345816256707,1.342129189993283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Mount Faber Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mount Faber Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Mount Faber Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Souvenir kiosk 
+Shelters 
+Nature trail 
+Look out points 
+Food and beverage area or restaurant or café 
+Cable car station 
+Benches 
+Toilets</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Junction of Kampong Bahru Road and Telok Blangah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8165499186604,1.274619997596972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Pasir Ris Town Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pasir Ris Town Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pasir Ris Town Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Childrens play equipment 
+Fitness corner/stations and fitness equipment/exercise station 
+Foot reflexology footpath</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Pasir Ris Central, Opposite Pasir Ris MRT Station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9528299359513,1.371009932213502,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Kranji Resevoir Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kranji Resevoir Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kranji Resevoir Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Drinking fountain 
+Toilets 
+Shelters 
+Benches</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Kranji Way</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7380629205474,1.439122404064925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Punggol Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Punggol Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Punggol Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Barbecue pits, BYOP, Children's play equipment, Food and beverage area or restaurant or café 
+Fitness, corner, or, stations, and, fitness, equipment, or, exercise, station 
+Jogging, path, or, running, track 
+Pond 
+Shelters</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Junction of Hougang Avenue 8 and 10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8983575372218,1.376857626005001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Punggol Waterway Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Punggol Waterway Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Punggol Waterway Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Sand play area 
+Fitness corner or stations and fitness equipment exercise station 
+Children's play equipment</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Sentul Crescent Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9067693911891,1.407593451689727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Singapore Botanic Gardens</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Singapore Botanic Gardens</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Singapore Botanic Gardens</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Singapore Botanic Gardens</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>1 Cluny Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8162505929593,1.311048144011875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Sun Plaza Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sun Plaza Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sun Plaza Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Sand play area 
+Skate and bicycle kiosk 
+Shelters 
+Jogging path or running track 
+Fitness corner or stations and fitness equipment or exercise station 
+Beach ball court 
+Amphitheatre 
+Sense discovery garden 
+Taichi corner 
+12 fairways Woodball Course 
+Drinking fountain</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Tampines Avenue 7, Tampines Avenue 9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9437699279742,1.359049993274244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Telok Blangah Hill Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Telok Blangah Hill Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Telok Blangah Hill Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Drinking fountain 
+Toilets Event lawn 
+Shelters 
+Nature trail 
+Multi purpose court  or corner 
+Foot reflexology footpath 
+Fitness corner or stations and fitness equipment or exercise station 
+Childrens play equipment 
+Benches 
+Activity plaza</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Telok Blangah Green off Henderson Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8128899707719,1.278509915772337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Tiong Bahru Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tiong Bahru Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Tiong Bahru Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Drinking fountain 
+Pond pavilion 
+Foot reflexology footpath 
+Fitness corner or stations and fitness equipment or exercise station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bounded by Henderson Rd, Tiong Bahru Road and Lower Delta Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8243399119128,1.287589986421333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>West Coast Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>West Coast Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>West Coast Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Benches 
+Barbecue pits 
+Bicycle obstacle course 
+Children's play equipment 
+Cycling track 
+Dog run corner 
+Exercise garden including a chess garden foot reflexology facilities and bird cage trellis 
+Food and beverage area or restaurant or cafe 
+Fitness corneror stations and fitness equipment or exercise station 
+Grand lawn Jogging path or running track 
+Marsh garden 
+Pond 
+Playground 
+Pergola Promenade 
+Restroom or Toilets with or without shower facilities 
+Shelters 
+Sand play area 
+Taichi corner 
+Health and fitness activities 
+Children's playground 
+Event lawn 
+Toilets</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Parallel to West Coast Highway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7643393607882,1.294702573789405,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Woodlands Town Garden</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Woodlands Town Garden</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Woodlands Town Garden</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Amphitheatre  
+Pond 
+Playground 
+Restroom or Toilets with or without shower facilities 
+Shelters</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Woodlands Centre Road adjacent to Bukit Timah Expressway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7701899536251,1.437809918298392,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Raffles Place Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Raffles Place Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Raffles Place Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>The park is bounded by Battery Road and Collyer Quay. It can also be accessed from D'Almeida Street.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8515699804217,1.28395999707691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Tanjong Pagar RICOH Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tanjong Pagar RICOH Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Tanjong Pagar RICOH Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>above the Tanjong Pagar MRT station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8457099407903,1.276539989504184,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>The Southern Ridges</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>The Southern Ridges</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>The Southern Ridges</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>33 Hyderabad Road, Off Alexandra Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8048341159666,1.279876995770767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>War Memorial Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>War Memorial Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>War Memorial Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bounded by Nicoll Highway, Stamford Road, Beach Road and Bras Basah Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8548099178537,1.29281994347804,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Youth Olympic Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Youth Olympic Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Youth Olympic Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Raffles Avenue. Junction of Raffles Avenue and Bayfront Bridge</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8604244660383,1.289056409832788,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Dairy Farm Nature Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Dairy Farm Nature Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dairy Farm Nature Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>100 Dairy Farm Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7725644043802,1.361845202563171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Fort Canning Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Fort Canning Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Fort Canning Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Hotel 
+Carpark 
+Drinking fountain 
+Toilets 
+Shelters 
+Fitness corner or stations and fitness equipment or exercise station 
+Food and beverage area or restaurant or café 
+Benches</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Fort Canning Park is bounded by Hill Street, Canning Rise, Clemenceau Avenue and River Valley Road.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8461499554014,1.294789980226327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Zhenghua Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Zhenghua Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Zhenghua Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Cycling track 
+Fitness corner or stations and fitness equipment or exercise station 
+Jogging path or running track 
+Playground 
+Shelters</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bounded by Bt Timah Expressway (BKE), BKE Slip Road to Kranji Expressway (KJE) &amp; Dairy Farm Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7782886264024,1.367961669792198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Admiralty Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Admiralty Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Admiralty Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Carpark 
+Toilets 
+Shelters 
+Nature trail 
+Fitness corner or stations and fitness equipment or exercise station 
+Food and beverage area or restaurant or café 
+Cycling track 
+Amphitheatre 
+Boardwalk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Riverside Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7844101611539,1.442505986574049,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Bedok Town Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bedok Town Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bedok Town Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Childrens play equipment 
+Campsites 
+Fitness corner or stations and fitness equipment or exercise station 
+Foot reflexology footpath 
+Jogging path or running track  
+Shelters</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bedok North Ave 3. Bounded by Bedok North Road, Bedok North Avenue 3 and the Pan Island Expressway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9264196203059,1.335707780203995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Esplanade Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Esplanade Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Esplanade Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Connaught Drive, opposite Padang and City Hall</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8536971910362,1.28946526299466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Pearl's Hill City Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pearl's Hill City Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pearl's Hill City Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Pearl's Hill Terrace</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8399277261468,1.284563987954494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Sengkang Riverside Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sengkang Riverside Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sengkang Riverside Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Anchorvale Street abutting Sungei Punggol</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8878230870544,1.39952434256263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Bukit Batok Town Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Batok Town Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bukit Batok Town Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bukit Batok East Ave 5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.755549740756,1.357316196031144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Hort Park - The Gardening Hub</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hort Park - The Gardening Hub</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Hort Park - The Gardening Hub</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Children's playground 
+Food and beverage area or restaurant or cafe</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>33 Hyderabad Road, Off Alexandra Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7997789008482,1.278839343839523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>One-North Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>One-North Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>One-North Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>East plaza 
+Hilltop plaza 
+North plaza 
+Shelters 
+Water wall 
+Wifi-services</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>The 3.3 hectare site is situated in the northern zone of one-north, near the Ministry of Education</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7907745612621,1.303491325231264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Lower Seletar Reservoir Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Lower Seletar Reservoir Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Lower Seletar Reservoir Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Fitness corner or stations and fitness equipment or exercise station 
+Fishing jetty 
+Jogging path or running track 
+People's Association Water Venture</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bounded by Yishun Ave 1 and Lentor Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8326799537331,1.410279971105658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Tampines Eco Green</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tampines Eco Green</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Tampines Eco Green</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bird Hides 
+Shelters 
+ Nature trail 
+Jogging path or running track 
+Viewing Platforms 
+Eco Toilets</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Tampines Eco Green, Tampines Avenue 9 and Tampines Avenue 12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9483065091815,1.363788743862203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Woodlands Waterfront Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Woodlands Waterfront Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Woodlands Waterfront Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Multi generational 
+Playground 
+Picnic Lawns 
+Scenic Trails 
+Carpark 
+Toilets 
+Event lawn 
+Shelters 
+Look out points 
+Fitness corner or stations and fitness equipment or exercise station 
+Cycling track</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Admiralty Road West</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7799361924831,1.452813754790663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Ang Mo Kio Town Garden East</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ang Mo Kio Town Garden East</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ang Mo Kio Town Garden East</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Shelters 
+Fitness corner or stations and fitness equipment or exercise station 
+Exercise garden including a chess garden a foot reflexology facilities and bird cage trellis 
+Childrens play equipment 
+Benches</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Junction of Ang Mo Kio Ave 3 and 8, behind Ang Mo Kio MRT Station</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8506380445593,1.370625694501962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Bedok Reservoir Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bedok Reservoir Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bedok Reservoir Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Cycling track 
+Childrens play equipment 
+Bicycle rack 
+Benches 
+Fitness corner or stations and fitness equipment or exercise station 
+Fishing jetty 
+Jogging path or running track 
+Peoples Association Water Venture 
+Restroom  or Toilets with or without shower facilities 
+Shelters 
+Event lawn 
+Drinking fountain</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along Bedok Reservoir Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.923099989145,1.342479934987691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Choa Chu Kang Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Choa Chu Kang Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Choa Chu Kang Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Amphitheatre 
+Benches 
+Bicycle rack 
+Childrens play equipment 
+Food and beverage area or restaurant or cafe 
+Fitness corner or stations and fitness equipment or exercise station 
+Jogging path or running track 
+Multi-purpose court or corner 
+Restroom or Toilets with or without shower facilities</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Beside Kranji Expressway and along Choa Chu Kang Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7471915090263,1.387737263248452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>East Coast Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>East Coast Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>East Coast Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Xtreme SkatePark at East Coast 
+Event lawn 
+Health and fitness activities 
+Wifi services 
+Water sports centre 
+Tennis courts 
+Taichi corner 
+Sand play area 
+Skate and bicycle kiosk 
+Restroom or Toilets with or without shower facilities 
+Peoples Association Water Venture 
+Pond 
+Kite flying corner 
+Jogging path or running track 
+Holiday chalets 
+Hawker centre 
+Grand lawn 
+Fishing jetty 
+Foot reflexology footpath 
+Fitness corner or stations and fitness equipment or exercise station 
+Food and beverage area or restaurant or cafe 
+Cycling track 
+BYOP 
+Bicycle rack 
+Barbecue pi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Along East Coast Parkway and East Coast Park Service Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9206052235485,1.303168818699514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Clementi Woods Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clementi Woods Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clementi Woods Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Amphitheatre 
+Food and beverage area or restaurant or cafe 
+Fitness corner or stations and fitness equipment or exercise station 
+Foot reflexology footpath 
+Playground 
+Restroom or Toilets with or without shower facilities 
+Shelters 
+Viewing tower</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Clementi Road next to Kent Vale, along West Coast Road next to Ginza Plaza</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.767412179965,1.299923945912669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Dhoby Ghaut Green</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Dhoby Ghaut Green</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dhoby Ghaut Green</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Event lawn Food and beverage area or restaurant or café 
+Amphitheatre 
+Activity plaza</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Adjacent to Dhoby Ghaut MRT Station, opposite the Park Mall Shopping Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8459227234039,1.298363517403817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Hong Lim Park - Speaker's Corner</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hong Lim Park - Speaker's Corner</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Hong Lim Park - Speaker's Corner</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>The park is bounded by North Canal Road, South Bridge Road, Upper Pickering Street and New Bridge Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8465608185065,1.286568880224814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Istana Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Istana Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Istana Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Bounded by Orchard Road, Penang Road, Penang Lane and Buyong Road.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.843909995391,1.29917995828159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>National Orchid Garden</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>National Orchid Garden</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>National Orchid Garden</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Singapore Botanic Gardens</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8138935312538,1.312670183418137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Pasir Ris Park</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pasir Ris Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pasir Ris Park</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>Pasir Ris Park stretches from Pasir Ris Road to Jalan Loyang Besar and can be accessed through Elias Road and Pasir Ris Green</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9506599950251,1.37863996441683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Pulau Ubin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Ubin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pulau Ubin</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSSTREETNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9654199873669,1.408689949740593,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_ea6e4d0.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
